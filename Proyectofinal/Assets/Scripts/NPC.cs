@@ -90,7 +90,7 @@ public class NPC : MonoBehaviour {
                 //estado 2
                 else if (n_Malo <= 0.52f && n_Neutral > 0.88f)
                 {
-                    Debug.Log("Que paso ahi amigito? Como que el miniboss te derroto. Para eso me gustabas");
+                    Debug.Log("Ayudame ahora hay un enemigo más fuerte que derrotar");
                 }
 
                 //estado 3
